@@ -1,0 +1,19 @@
+﻿„Liczenie pola.exe” (Win32): załadowano „C:\Users\Monika\source\repos\Liczenie pola\Debug\Liczenie pola.exe”. Symbole zostały załadowane.
+„Liczenie pola.exe” (Win32): załadowano „C:\Windows\SysWOW64\ntdll.dll”. 
+„Liczenie pola.exe” (Win32): załadowano „C:\Windows\SysWOW64\kernel32.dll”. 
+„Liczenie pola.exe” (Win32): załadowano „C:\Windows\SysWOW64\KernelBase.dll”. 
+„Liczenie pola.exe” (Win32): załadowano „C:\Windows\SysWOW64\msvcp140d.dll”. 
+„Liczenie pola.exe” (Win32): załadowano „C:\Windows\SysWOW64\vcruntime140d.dll”. 
+„Liczenie pola.exe” (Win32): załadowano „C:\Windows\SysWOW64\ucrtbased.dll”. 
+Wątek 0x63d8 zakończył działanie z kodem 0 (0x0).
+„Liczenie pola.exe” (Win32): załadowano „C:\Windows\SysWOW64\kernel.appcore.dll”. 
+„Liczenie pola.exe” (Win32): załadowano „C:\Windows\SysWOW64\msvcrt.dll”. 
+„Liczenie pola.exe” (Win32): załadowano „C:\Windows\SysWOW64\rpcrt4.dll”. 
+„Liczenie pola.exe” (Win32): załadowano „C:\Windows\SysWOW64\sspicli.dll”. 
+„Liczenie pola.exe” (Win32): załadowano „C:\Windows\SysWOW64\cryptbase.dll”. 
+„Liczenie pola.exe” (Win32): załadowano „C:\Windows\SysWOW64\bcryptprimitives.dll”. 
+„Liczenie pola.exe” (Win32): załadowano „C:\Windows\SysWOW64\sechost.dll”. 
+Wątek 0x7534 zakończył działanie z kodem 0 (0x0).
+Wątek 0x3614 zakończył działanie z kodem 0 (0x0).
+Wątek 0x4874 zakończył działanie z kodem 0 (0x0).
+Program „[9476] Liczenie pola.exe” zakończył działanie z kodem 0 (0x0).

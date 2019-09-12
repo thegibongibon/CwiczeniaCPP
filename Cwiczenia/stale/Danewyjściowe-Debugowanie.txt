@@ -1,0 +1,20 @@
+﻿„stale.exe” (Win32): załadowano „C:\Users\Monika\source\repos\stale\Debug\stale.exe”. Symbole zostały załadowane.
+„stale.exe” (Win32): załadowano „C:\Windows\SysWOW64\ntdll.dll”. 
+„stale.exe” (Win32): załadowano „C:\Windows\SysWOW64\kernel32.dll”. 
+„stale.exe” (Win32): załadowano „C:\Windows\SysWOW64\KernelBase.dll”. 
+„stale.exe” (Win32): załadowano „C:\Windows\SysWOW64\apphelp.dll”. 
+„stale.exe” (Win32): załadowano „C:\Windows\SysWOW64\msvcp140d.dll”. 
+„stale.exe” (Win32): załadowano „C:\Windows\SysWOW64\vcruntime140d.dll”. 
+„stale.exe” (Win32): załadowano „C:\Windows\SysWOW64\ucrtbased.dll”. 
+Wątek 0x17d4 zakończył działanie z kodem 0 (0x0).
+„stale.exe” (Win32): załadowano „C:\Windows\SysWOW64\kernel.appcore.dll”. 
+„stale.exe” (Win32): załadowano „C:\Windows\SysWOW64\msvcrt.dll”. 
+„stale.exe” (Win32): załadowano „C:\Windows\SysWOW64\rpcrt4.dll”. 
+„stale.exe” (Win32): załadowano „C:\Windows\SysWOW64\sspicli.dll”. 
+„stale.exe” (Win32): załadowano „C:\Windows\SysWOW64\cryptbase.dll”. 
+„stale.exe” (Win32): załadowano „C:\Windows\SysWOW64\bcryptprimitives.dll”. 
+„stale.exe” (Win32): załadowano „C:\Windows\SysWOW64\sechost.dll”. 
+Wątek 0x944 zakończył działanie z kodem 0 (0x0).
+Wątek 0x5148 zakończył działanie z kodem 0 (0x0).
+Wątek 0x9d0 zakończył działanie z kodem 0 (0x0).
+Program „[29116] stale.exe” zakończył działanie z kodem 0 (0x0).
